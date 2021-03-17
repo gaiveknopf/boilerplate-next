@@ -1,6 +1,6 @@
 const Main = () => (
   <main>
-    <h2>React Avançado</h2>
+    <h2>Bolierplate</h2>
   </main>
 );
 
