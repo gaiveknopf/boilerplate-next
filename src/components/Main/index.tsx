@@ -1,6 +1,6 @@
 const Main = () => (
   <main>
-    <h2>Bolierplate</h2>
+    <h1>Boilerplate</h1>
   </main>
 );
 
